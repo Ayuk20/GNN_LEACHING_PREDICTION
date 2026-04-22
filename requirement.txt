@@ -1,0 +1,7 @@
+streamlit==1.44.1
+torch==2.7.0
+pandas==2.2.3
+numpy==2.2.5
+scikit-learn==1.6.1
+networkx==3.4.2
+matplotlib==3.10.1
