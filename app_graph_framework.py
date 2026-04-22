@@ -1,5 +1,9 @@
-import pandas as pd
+import os
+import torch
 import streamlit as st
+# Fix for torch.classes path error
+torch.classes.__path__ = [] 
+import pandas as pd
 
 from full_heterogat_plus_globalkg_attention_recommender import (
     FullHeteroGATPlusGlobalKGAttentionFramework,
