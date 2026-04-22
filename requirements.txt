@@ -1,5 +1,8 @@
-streamlit==1.44.1
-torch>=2.9,<2.12
+streamlit==1.56.0
+torch==2.9.1
+pandas
+numpy
+scikit-learn
 pandas==2.2.3
 numpy==2.2.5
 scikit-learn==1.6.1
