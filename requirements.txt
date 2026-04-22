@@ -3,7 +3,6 @@ torch==2.9.1
 torch-geometric==2.7.0
 -f https://data.pyg.org/whl/torch-2.9.1+cpu.html
 torch-scatter==2.1.2
--f https://data.pyg.org/whl/torch-2.9.1+cpu.html
 torch-sparse==0.6.18
 pandas
 numpy
